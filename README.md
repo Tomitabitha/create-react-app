@@ -26,12 +26,11 @@ The five major advantages of React are;
 
 # ASSIGNMENT 5
 
-* In HTML almost all tags have an opening and a closing tag except probably a few like <br/>  
+* In HTML almost all tags have an opening and a closing tag except probably a few like br tag 
 while in 
 
-JSX, any element can be written as a self-closing tag, for example: <div/>
-Example:
-const string = <img src={user.avatarUrl}  />;
+JSX, any element can be written as a self-closing tag.
+
 
 * In HTML, multiple elements can be returned. while in JSX
 Nested JSX must return one element, which we’ll call a parent element that wraps all other levels of nested,
